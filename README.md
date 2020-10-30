@@ -1,8 +1,8 @@
-## Lab 2: Data Representation using XML (C#)
+## Lab 2: Data Representation in XML using C#
 
-> Scripts
+> Projects
 
-[Serialisation and Deserialisation](https://github.com/AllanVikiru/DistributedObjectsWebServices/tree/xml/Serialisation%20And%20Deserialisation) : has 2 major scripts - Country.cs for defining XML elements and Program.cs for serialisation & deserialisation to and from XML. There's a sample text file containing the XML document skeleton and the XML file that is generated from the scripts.
+[Serialisation and Deserialisation](https://github.com/AllanVikiru/DistributedObjectsWebServices/tree/xml/Serialisation%20And%20Deserialisation) : has 2 major scripts - ```Country.cs``` for defining XML elements and ```Program.cs``` for serialisation & deserialisation to and from XML. There's a sample text file containing the XML document skeleton and the XML file that is generated from the scripts.
   
   
 > Prerequisites
