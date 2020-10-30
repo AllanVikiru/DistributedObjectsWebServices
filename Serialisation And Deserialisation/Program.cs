@@ -67,7 +67,7 @@ namespace SerialisationAndDeserialisation
                     }
                 );
                 XmlSerializer xmlSerializer = new XmlSerializer(typeof(List<Country>)); //create new xmlSerializer object from country list
-                StreamWriter sw = new StreamWriter("country_list.xml"); // create new file using StreamWriter object
+                StreamWriter sw = new StreamWriter("countries.xml"); // create new file using StreamWriter object
                 xmlSerializer.Serialize(sw,listCountries); //serialise list data into file
                 sw.Close(); //finish writing into file
                 Console.WriteLine("Serialisation Complete");
@@ -80,7 +80,7 @@ namespace SerialisationAndDeserialisation
          // Country List Deserialisation
             try {
                 XmlSerializer xmlSerializer = new XmlSerializer(typeof(List<Country>)); //create new xmlSerializer object from country list
-                StreamReader sr = new StreamReader("country_list.xml"); //read from XML file
+                StreamReader sr = new StreamReader("countries.xml"); //read from XML file
                 List<Country> listCountries = (List<Country>)xmlSerializer.Deserialize(sr); //deserialise from file as a list type of countries
                 // output country information in list
                 foreach ( Country country in listCountries){
