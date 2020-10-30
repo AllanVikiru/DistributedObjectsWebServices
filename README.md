@@ -13,14 +13,13 @@
 [Install and Setup C# in VSCode](https://www.youtube.com/watch?v=Y7GMBmd1EAk) 
 
 
-
 > Program Execution
 
 ```
 dotnet new console  // set up sample application
 
 dotnet run      // run main program (Program.cs) 
-                // be sure to replace the sample Program.cs before applying that of the project
+             
 ```
-
+*Note: only one Program.cs file can exist within one project - be sure to replace accordingly with the project
 
