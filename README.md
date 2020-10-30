@@ -1,4 +1,4 @@
-## Distributed Objects and Web Services (September - January 2020)
+## ICS 4105 - Distributed Objects and Web Services (September - December 2020)
 
 > Labwork:
 
