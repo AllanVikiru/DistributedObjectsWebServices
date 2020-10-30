@@ -2,12 +2,9 @@
 
 > Scripts
 
-[area_script.py](https://github.com/AllanVikiru/DistributedObjectsWebServices/blob/main/MPI-Lab/area_script.py) : demonstrates finding the area under a curve using the Trapezoidal Rule.
+[Serialisation and Deserialisation](https://github.com/AllanVikiru/DistributedObjectsWebServices/tree/xml/Serialisation%20And%20Deserialisation) : has 2 major scripts - Country.cs for defining XML elements and Program.cs for serialisation & deserialisation to and from XML. There's a sample text file containing the XML document skeleton and the XML file that is generated from the scripts.
   
-[mpi_trial.py](https://github.com/AllanVikiru/DistributedObjectsWebServices/blob/main/MPI-Lab/mpi_trial.py) : test script for sending messages between processes over MPI.
-
-[mpi_area.py](https://github.com/AllanVikiru/DistributedObjectsWebServices/blob/main/MPI-Lab/mpi_area.py) : illustrates calculation of area using Trapezoidal Rule and MPI. 
-
+  
 > Prerequisites
 
 [Install and Setup C# in VSCode](https://www.youtube.com/watch?v=Y7GMBmd1EAk) 
