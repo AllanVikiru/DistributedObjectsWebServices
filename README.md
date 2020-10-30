@@ -4,4 +4,4 @@
 
 1. [Message Passing Interface](https://github.com/AllanVikiru/DistributedObjectsWebServices/tree/mpi)
 
-2. [Data Representation using XML](https://github.com/AllanVikiru/DistributedObjectsWebServices/tree/xml) 
+2. [Data Representation in XML](https://github.com/AllanVikiru/DistributedObjectsWebServices/tree/xml) 
