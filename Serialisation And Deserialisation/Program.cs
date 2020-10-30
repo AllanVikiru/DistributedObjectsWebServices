@@ -84,7 +84,7 @@ namespace SerialisationAndDeserialisation
                 List<Country> listCountries = (List<Country>)xmlSerializer.Deserialize(sr); //deserialise from file as a list type of countries
                 // output country information in list
                 foreach ( Country country in listCountries){
-                    Console.WriteLine("****Country Description**** (source: Wikipedia)");
+                    Console.WriteLine("****Country Description****");
                     Console.WriteLine("Id: " + country.Id);
                     Console.WriteLine("Name: " + country.Name);
                     Console.WriteLine("Population: " + country.population.People);
@@ -92,7 +92,7 @@ namespace SerialisationAndDeserialisation
                     Console.WriteLine("Capital City: " + country.information.Capital);
                     Console.WriteLine("Currency Code: " + country.information.Currency);
                     Console.WriteLine("Calling Code: " + country.information.Calling);
-                    Console.WriteLine("--------------------------------------");
+                    Console.WriteLine("---------(source: Wikipedia)---------");
                 }
             }
             catch(Exception ex){
