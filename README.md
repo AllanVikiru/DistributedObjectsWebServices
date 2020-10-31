@@ -26,13 +26,13 @@ dotnet run      // run main program (Program.cs)
 ```
 PHP
 
-Create a folder 'dows-mysql-to-xml' within the web server folder and paste the scripts on there. 
+1. Create a folder 'dows-mysql-to-xml' within the web server folder and paste the scripts on there. 
 
-Create a MYSQL database and import students.sql as a new table. 
+2. Create a MYSQL database and import students.sql as a new table. 
 
-In credentials.php enter your database connection credentials as indicated - server name, username, password and database name.
+3. In credentials.php enter your database connection credentials as indicated - server name, username, password and database name.
 
-Consequently, run the script dows-mysql-to-xml/index.php on your web browser.
+4. Consequently, run the script dows-mysql-to-xml/index.php on your web browser.
             
 ```
 
