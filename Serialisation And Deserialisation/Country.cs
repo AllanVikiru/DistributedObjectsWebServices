@@ -14,13 +14,13 @@ namespace SerialisationAndDeserialisation
            get; // create getters and setters for variable
            set;
        }
-       [XmlAttribute("region")] //define attribute region
-       public string Region {
+       [XmlAttribute("name")] //define attribute name
+       public string Name {
            get;
            set;
        }
-        [XmlElement("name")] //define child element name 
-        public string Name {
+        [XmlElement("region")] //define child element name 
+        public string Region {
            get;
            set;
        }

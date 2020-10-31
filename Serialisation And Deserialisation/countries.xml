@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfCountry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Country id="C01" region="East Africa">
-    <name>Kenya</name>
+  <Country id="C01" name="Kenya">
+    <region>East Africa</region>
     <population year="2019">47564296</population>
     <information>
       <capital>Nairobi</capital>
@@ -9,8 +9,8 @@
       <calling>+254</calling>
     </information>
   </Country>
-  <Country id="C02" region="West Africa">
-    <name>Senegal</name>
+  <Country id="C02" name="Senegal">
+    <region>West Africa</region>
     <population year="2016">14668522</population>
     <information>
       <capital>Dakar</capital>
@@ -18,8 +18,8 @@
       <calling>+221</calling>
     </information>
   </Country>
-  <Country id="C03" region="Southern Africa">
-    <name>Mozambique</name>
+  <Country id="C03" name="Mozambique">
+    <region>Southern Africa</region>
     <population year="2017">27909798</population>
     <information>
       <capital>Maputo</capital>

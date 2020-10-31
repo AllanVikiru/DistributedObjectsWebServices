@@ -1,0 +1,26 @@
+C:\Users\Asus\Documents\year 4\semester 2\distributed objects\xml\SerialisationAndDeserialisation\bin\Debug\netcoreapp3.1\SerialisationAndDeserialisation.exe
+C:\Users\Asus\Documents\year 4\semester 2\distributed objects\xml\SerialisationAndDeserialisation\bin\Debug\netcoreapp3.1\SerialisationAndDeserialisation.deps.json
+C:\Users\Asus\Documents\year 4\semester 2\distributed objects\xml\SerialisationAndDeserialisation\bin\Debug\netcoreapp3.1\SerialisationAndDeserialisation.runtimeconfig.json
+C:\Users\Asus\Documents\year 4\semester 2\distributed objects\xml\SerialisationAndDeserialisation\bin\Debug\netcoreapp3.1\SerialisationAndDeserialisation.runtimeconfig.dev.json
+C:\Users\Asus\Documents\year 4\semester 2\distributed objects\xml\SerialisationAndDeserialisation\bin\Debug\netcoreapp3.1\SerialisationAndDeserialisation.dll
+C:\Users\Asus\Documents\year 4\semester 2\distributed objects\xml\SerialisationAndDeserialisation\bin\Debug\netcoreapp3.1\SerialisationAndDeserialisation.pdb
+C:\Users\Asus\Documents\year 4\semester 2\distributed objects\xml\SerialisationAndDeserialisation\obj\Debug\netcoreapp3.1\SerialisationAndDeserialisation.csprojAssemblyReference.cache
+C:\Users\Asus\Documents\year 4\semester 2\distributed objects\xml\SerialisationAndDeserialisation\obj\Debug\netcoreapp3.1\SerialisationAndDeserialisation.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\year 4\semester 2\distributed objects\xml\SerialisationAndDeserialisation\obj\Debug\netcoreapp3.1\SerialisationAndDeserialisation.AssemblyInfo.cs
+C:\Users\Asus\Documents\year 4\semester 2\distributed objects\xml\SerialisationAndDeserialisation\obj\Debug\netcoreapp3.1\SerialisationAndDeserialisation.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\year 4\semester 2\distributed objects\xml\SerialisationAndDeserialisation\obj\Debug\netcoreapp3.1\SerialisationAndDeserialisation.dll
+C:\Users\Asus\Documents\year 4\semester 2\distributed objects\xml\SerialisationAndDeserialisation\obj\Debug\netcoreapp3.1\SerialisationAndDeserialisation.pdb
+C:\Users\Asus\Documents\year 4\semester 2\distributed objects\xml\SerialisationAndDeserialisation\obj\Debug\netcoreapp3.1\SerialisationAndDeserialisation.genruntimeconfig.cache
+C:\Users\Asus\Documents\stuf\SerialisationAndDeserialisation\bin\Debug\netcoreapp3.1\SerialisationAndDeserialisation.exe
+C:\Users\Asus\Documents\stuf\SerialisationAndDeserialisation\bin\Debug\netcoreapp3.1\SerialisationAndDeserialisation.deps.json
+C:\Users\Asus\Documents\stuf\SerialisationAndDeserialisation\bin\Debug\netcoreapp3.1\SerialisationAndDeserialisation.runtimeconfig.json
+C:\Users\Asus\Documents\stuf\SerialisationAndDeserialisation\bin\Debug\netcoreapp3.1\SerialisationAndDeserialisation.runtimeconfig.dev.json
+C:\Users\Asus\Documents\stuf\SerialisationAndDeserialisation\bin\Debug\netcoreapp3.1\SerialisationAndDeserialisation.dll
+C:\Users\Asus\Documents\stuf\SerialisationAndDeserialisation\bin\Debug\netcoreapp3.1\SerialisationAndDeserialisation.pdb
+C:\Users\Asus\Documents\stuf\SerialisationAndDeserialisation\obj\Debug\netcoreapp3.1\SerialisationAndDeserialisation.csprojAssemblyReference.cache
+C:\Users\Asus\Documents\stuf\SerialisationAndDeserialisation\obj\Debug\netcoreapp3.1\SerialisationAndDeserialisation.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\stuf\SerialisationAndDeserialisation\obj\Debug\netcoreapp3.1\SerialisationAndDeserialisation.AssemblyInfo.cs
+C:\Users\Asus\Documents\stuf\SerialisationAndDeserialisation\obj\Debug\netcoreapp3.1\SerialisationAndDeserialisation.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\stuf\SerialisationAndDeserialisation\obj\Debug\netcoreapp3.1\SerialisationAndDeserialisation.dll
+C:\Users\Asus\Documents\stuf\SerialisationAndDeserialisation\obj\Debug\netcoreapp3.1\SerialisationAndDeserialisation.pdb
+C:\Users\Asus\Documents\stuf\SerialisationAndDeserialisation\obj\Debug\netcoreapp3.1\SerialisationAndDeserialisation.genruntimeconfig.cache
