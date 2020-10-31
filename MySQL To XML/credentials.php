@@ -1,8 +1,7 @@
 <?php
 
-$servername = "localhost";
-$username = "root";
+$servername = "";
+$username = "";
 $password = "";
-$db = "dows_labs";
-
+$db = "";
 ?>
