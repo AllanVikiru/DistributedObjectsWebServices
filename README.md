@@ -2,7 +2,7 @@
 
 > Projects
 
-[Serialisation and Deserialisation (C#)](https://github.com/AllanVikiru/DistributedObjectsWebServices/tree/xml/Serialisation%20And%20Deserialisation) : has 2 scripts - ```Country.cs``` for defining XML elements and ```Program.cs``` for serialisation & deserialisation to and from XML. There's a sample text file containing the XML document skeleton (```sample.txt```) and the XML file (```countries.xml```) that is generated from the scripts.
+[Serialisation and Deserialisation (C#)](https://github.com/AllanVikiru/DistributedObjectsWebServices/tree/xml/Serialisation%20And%20Deserialisation) : has 2 main scripts - ```Country.cs``` for defining XML elements and ```Program.cs``` for serialisation & deserialisation to and from XML. There's a sample text file containing the XML document skeleton (```sample.txt```) and the XML file (```countries.xml```) that is generated from the scripts.
 
 [Generate XML files from MySQL (PHP)](https://github.com/AllanVikiru/DistributedObjectsWebServices/tree/xml/MySQL%20To%20XML) : ```students.sql```, is a SQL file for defining the database table. For XML generation, it has 3 scripts - ```credentials.php``` for declaring database connection credentials, ```generate.php``` containing the function for generating the XML file and ```index.php``` for connecting to the database and passing database table information to the XML file generation function. The generated XML file is defined in ```students.xml```and its predefined version in ```sample.txt```. 
   
@@ -10,17 +10,16 @@
 
 [Install C# and Setup C# in VSCode](https://www.youtube.com/watch?v=Y7GMBmd1EAk) 
 
+*Note: The IDE doesn't necessarily have to be VSCode. The C# program can be executed via the command prompt.*
+
 
 > Program Execution
 
 ```
 C#
  
-dotnet new console  // set up sample application
-
 dotnet run      // run main program (Program.cs)  
-
-//Note: only one Program.cs file can exist within one project - be sure to replace the generated file with that of the project. Also ensure the namespace is named accordingly in both .cs files.
+   
 ```
 
 ```
