@@ -44,7 +44,7 @@ function generateXML($students_array){
         $dom->formatOutput  = true; //format the XML file and save 
         $dom->save($file);
         //prompt for successful generation
-        echo 'Student XML file Created! Access it <a href="../dows-mysql-to-xml/students.xml">here</a>.<br><br>'; // change folder name here
+        echo 'Student XML file Created! Access it <a href="../dows-mysql-to-xml/students.xml">here</a>.<br><br>'; 
         echo '<i><b>Note</b>: As noticed with Mozilla Firefox, your browser add-ons may interfere with the file preview function.<br> 
         Copy the URL to a new Private Browsing window, or to another browser to view the file. You can also access it from your directory locally.</i>';
     }
