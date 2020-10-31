@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<students>
+  <student id="1">
+    <firstName>David</firstName>
+    <lastName>Kamau</lastName>
+    <dateofBirth>1997-04-10</dateofBirth>
+    <details>
+      <school>SCES</school>
+      <course>BICS</course>
+    </details>
+  </student>
+  <student id="2">
+    <firstName>Mary</firstName>
+    <lastName>Otieno</lastName>
+    <dateofBirth>1998-03-29</dateofBirth>
+    <details>
+      <school>SCES</school>
+      <course>BBIT</course>
+    </details>
+  </student>
+  <student id="3">
+    <firstName>Wendy</firstName>
+    <lastName>Kirui</lastName>
+    <dateofBirth>1997-11-11</dateofBirth>
+    <details>
+      <school>SCES</school>
+      <course>BTC</course>
+    </details>
+  </student>
+  <student id="4">
+    <firstName>Moustafa</firstName>
+    <lastName>Ali</lastName>
+    <dateofBirth>1998-07-02</dateofBirth>
+    <details>
+      <school>SCES</school>
+      <course>BICS</course>
+    </details>
+  </student>
+</students>

@@ -1,0 +1,11 @@
+<students>
+    <student id = "s-id">
+        <firstName> FN </firstName>
+        <lastName> LN </lastName>
+        <DoB> DOB </DoB>
+        <details>
+            <school> school </school>
+            <course> course </course>
+        </details>
+    </student>
+</students>
