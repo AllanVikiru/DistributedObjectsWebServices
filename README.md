@@ -2,7 +2,7 @@
 
 > Projects
 
-[Serialisation and Deserialisation (C#)](https://github.com/AllanVikiru/DistributedObjectsWebServices/tree/xml/Serialisation%20And%20Deserialisation) : has 2 major scripts - ```Country.cs``` for defining XML elements and ```Program.cs``` for serialisation & deserialisation to and from XML. There's a sample text file containing the XML document skeleton and the XML file that is generated from the scripts.
+[Serialisation and Deserialisation (C#)](https://github.com/AllanVikiru/DistributedObjectsWebServices/tree/xml/Serialisation%20And%20Deserialisation) : has 2 scripts - ```Country.cs``` for defining XML elements and ```Program.cs``` for serialisation & deserialisation to and from XML. There's a sample text file containing the XML document skeleton and the XML file that is generated from the scripts.
 
 [Generate XML files from MySQL tables (PHP)](https://github.com/AllanVikiru/DistributedObjectsWebServices/tree/xml/MySQL%20To%20XML) : has 3 scripts - ```credentials.php``` for declaring database connection credentials, ```generate.php``` containing the function for generating the XML file and ```index.php``` for connecting to the database and passing database table information to the XML file generation function. There's also ```students.sql```, a SQL file for the database table, the generated XML file and its sample. 
   
