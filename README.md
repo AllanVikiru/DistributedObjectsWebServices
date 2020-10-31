@@ -20,7 +20,7 @@ dotnet new console  // set up sample application
 
 dotnet run      // run main program (Program.cs)  
 
-//Note: only one Program.cs file can exist within one project - be sure to replace accordingly with the project            
+//Note: only one Program.cs file can exist within one project - be sure to replace the generated file with that of the project         
 ```
 
 ```
