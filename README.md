@@ -20,8 +20,6 @@
 
 > Program Execution
 ```
-PHP
-
 1. Create a folder 'dows-soap' within the local web server folder and paste the scripts on there. 
 
 2. Create a MYSQL database and import students.sql as a new table. 
