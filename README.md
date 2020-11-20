@@ -15,7 +15,7 @@
 
 > Prerequisites
 
-[Include PHP NuSOAP Library](https://sourceforge.net/projects/nusoap/) : download the NuSOAP library, extract it and include the lib folder to your project directory
+[Include PHP NuSOAP Library](https://sourceforge.net/projects/nusoap/) : download the NuSOAP library, extract it and include the lib folder to your project directory.  
 
 
 > Program Execution
@@ -28,8 +28,8 @@ PHP
 
 3. In credentials.php enter your database connection credentials as indicated - server name, username, password and database name.
 
-4. Consequently, run /dows-soap/register.php and /dows-soap/client.php on your web browser to carry out registration and consume 'fetch student details' service.
+4. Consequently, run ;ocalhost/dows-soap/register.php and localhost/dows-soap/client.php on your web browser to carry out registration and consume 'fetch student details' service.
 
-5. Run /dows-soap/service.php to view service details and /dows-soap/service.php?wsdl to view the WSDL file generated
+5. Run localhost/dows-soap/service.php to view service details and localhost/dows-soap/service.php?wsdl to view the WSDL file generated
             
 ```
