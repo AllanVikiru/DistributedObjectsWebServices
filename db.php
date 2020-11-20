@@ -2,7 +2,7 @@
 
 // database connection credentials
 $servername = "";
-$port = ; //e.g 3306 for MySQL
+$port = ""; //e.g 3306 for MySQL
 $username = "";
 $password = "";
 $db = "";
