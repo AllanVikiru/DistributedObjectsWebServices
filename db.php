@@ -1,11 +1,11 @@
 <?php
 
 // database connection credentials
-$servername = "localhost";
-$port = 3306;
-$username = "root";
+$servername = "";
+$port = ; //e.g 3306 for MySQL
+$username = "";
 $password = "";
-$db = "dows_labs";
+$db = "";
 
 //test connection
 try{
