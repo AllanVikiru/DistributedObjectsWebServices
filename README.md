@@ -28,7 +28,7 @@ PHP
 
 3. In credentials.php enter your database connection credentials as indicated - server name, username, password and database name.
 
-4. Consequently, run ;ocalhost/dows-soap/register.php and localhost/dows-soap/client.php on your web browser to carry out registration and consume 'fetch student details' service.
+4. Consequently, run localhost/dows-soap/register.php and localhost/dows-soap/client.php on your web browser to carry out registration and consume 'fetch student details' service.
 
 5. Run localhost/dows-soap/service.php to view service details and localhost/dows-soap/service.php?wsdl to view the WSDL file generated
             
