@@ -15,6 +15,10 @@ if(isset($_POST["register"])){
 
 <!-- form styling - focus on text box and error highlighting -->
 <style>
+.link{
+    float: right;
+    color: green;
+}
 .form-control:focus {
     border-color: #000;
     box-shadow: none;
@@ -47,7 +51,10 @@ if(isset($_POST["register"])){
         <span class="text-info"><?php echo $conn_msg; ?></span> <!-- display success/error database connection message -->
             <div class="panel panel-default">
             <!-- registration form -->
-                <div class="panel-heading">Student Registration</div>
+                <div class="panel-heading">
+                    Student Registration
+                    <a class = "link" href="../dows-soap/client.php">Search Student Details</a>
+                </div>
                     <div class="panel-body">
                         <form method="post" name="reg_form">
                             <div class="form-group">
