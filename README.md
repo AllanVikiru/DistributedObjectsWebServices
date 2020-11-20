@@ -6,6 +6,6 @@
 
 2. [Data Representation in XML](https://github.com/AllanVikiru/DistributedObjectsWebServices/tree/xml) 
 
-3. [Consuming Services using SOAP](https://github.com/AllanVikiru/DistributedObjectsWebServices/tree/soap)
+3. [Service Invocation and Description in SOAP and WSDL](https://github.com/AllanVikiru/DistributedObjectsWebServices/tree/soap)
 
 #### Feel free to send in any queries and contributions. Cheers!
