@@ -49,22 +49,32 @@ function register($first_name, $last_name, $dob, $school, $course){
 // fetch student from db using admission number - SOAP service function
 function fetch($admNo){
     global $conn;
-    $query = $conn->prepare('SELECT * FROM students WHERE admNo = ?');
-	$query->bindParam(1, $admNo, PDO::PARAM_INT);
-    $query->execute();
-    $result = $query->fetch();
-
-    if (empty($result)){
-        return "<label class = 'text-danger'> No student is registered under admission number $admNo <label>";
-    }
-    else {
-    return "<label>Student Information</label></br>
-            Admission Number : ".$result['admNo']."</br>
-            Name : ". $result['firstName']." ".$result['lastName']."</br>
-            Date of Birth : ". $result['dateofBirth']."</br>
-            School : ".$result['school']."</br>
-            Course : ".$result['course']."";   
-    }	 	 
+    global $conn_msg;
+    try {
+        $query = $conn->prepare('SELECT * FROM students WHERE admNo = ?');
+        $query->bindParam(1, $admNo, PDO::PARAM_INT);
+        $query->execute();
+        $result = $query->fetch();
+    
+        if (empty($result)){
+            return "<label class = 'text-danger'> No student is registered under admission number $admNo <label>";
+        }
+        else {
+        return "<label>Student Information</label></br>
+                Admission Number : ".$result['admNo']."</br>
+                Name : ". $result['firstName']." ".$result['lastName']."</br>
+                Date of Birth : ". $result['dateofBirth']."</br>
+                School : ".$result['school']."</br>
+                Course : ".$result['course']."";   
+        }
+    } 
+    catch (Exception $e){
+        echo '<script language="javascript">';
+        echo 'alert("An error occurred. Please try again.");';
+        echo '</script>';
+        $conn_msg = $e->getMessage();
+    } 	 	 
 }
+
 
 ?>
