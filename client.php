@@ -14,6 +14,10 @@ if(isset($_POST["search"])){
 
 <!-- form styling - focus on text box and error highlighting -->
 <style>
+.link{
+    float: right;
+    color: green;
+}
 .form-control:focus {
     border-color: #000;
     box-shadow: none;
@@ -46,7 +50,10 @@ if(isset($_POST["search"])){
         <span class="text-info"><?php echo $conn_msg; ?></span> <!-- display success/error database connection message -->
             <div class="panel panel-default">
             <!-- search form -->
-                <div class="panel-heading">Student Details</div>
+                <div class="panel-heading">
+                    Search Student Details
+                    <a class = "link" href="../dows-soap/register.php">Register New Student</a>
+                </div>
                     <div class="panel-body">
                         <form method="post" name="search_form">
                             <div class="form-group">
