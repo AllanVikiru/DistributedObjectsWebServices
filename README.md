@@ -1,4 +1,4 @@
-## Lab 3: Service Invocation and Description in SOAP and WSDL using PHP
+## Lab 4: Creation and Consumption of a RESTful Web Service
 
 > Scripts
 
