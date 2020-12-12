@@ -28,7 +28,7 @@
 
 2. Create a MYSQL database and import students.sql as a new table. 
 
-3. In database.php enter your database connection credentials as indicated - server name, username, password and database name.
+3. In database.php enter your database connection credentials as indicated - server name, hostname, username, password and database name.
 
 4. Open Postman and send requests by entering the URL e.g. http://localhost/dows-rest/read_one.php?admNo=7 and view the response in the 'Response' tab
             
