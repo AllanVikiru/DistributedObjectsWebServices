@@ -4,11 +4,11 @@
 class Connection{ 
 
     // database connection credentials
-    private $servername = "localhost";
-    private $port = "3306"; //e.g 3306 for MySQL
-    private $username = "root";
+    private $servername = "";
+    private $port = ""; //e.g 3306 for MySQL
+    private $username = "";
     private $password = "";
-    private $db = "dows_labs";
+    private $db = "";
     public $conn;
 
     //test connection
