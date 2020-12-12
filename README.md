@@ -8,4 +8,6 @@
 
 3. [Service Invocation and Description in SOAP and WSDL](https://github.com/AllanVikiru/DistributedObjectsWebServices/tree/soap)
 
+4. [Creation and Consumption of a RESTful Web Service](https://github.com/AllanVikiru/DistributedObjectsWebServices/tree/rest)
+
 #### Feel free to send in any queries and contributions. Cheers!
