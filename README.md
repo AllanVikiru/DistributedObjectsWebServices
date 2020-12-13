@@ -1,4 +1,4 @@
-## Lab 4: Creation and Consumption of a RESTful Web Service
+## Lab 4: Creation and Consumption of a RESTful Web Service using PHP
 
 > Scripts
 
