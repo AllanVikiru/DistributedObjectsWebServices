@@ -4,12 +4,7 @@ class Student{
   
     // db connection object
     private $conn;
-    public $first_name;
-    public $last_name;
-    public $dob;
-    public $school;
-    public $course;
-    
+  
     // constructor method for db connection
     public function __construct($db){
         $this->conn = $db;
